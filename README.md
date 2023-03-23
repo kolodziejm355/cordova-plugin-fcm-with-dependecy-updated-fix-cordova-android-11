@@ -1,3 +1,7 @@
+
+# Original plugin:
+https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated
+
 ⚠️ After 3 years of developing and maintaining this plugin, due to the lack of sponsorship from the community and more promising opportunities, this project is now frozen. Anyone can clone and continue the good work. ⚠️
 
 # Google Firebase Cloud Messaging Cordova Push Plugin
